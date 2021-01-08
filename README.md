@@ -14,14 +14,14 @@ Within the excel workbook, there are two modules attached with it. Module 1 cont
 
 Below are screenshots of the code run from Module 1- the original code.
 
-###Original code & time to process
+### Original code & time to process
 
 ![VBA_Challenge_2017Original.png](/resources/VBA_Challenge_2017Original.png)
 ![VBA_Challenge_2018Original.png](/resources/VBA_Challenge_2018Original.png)
 
 Following that, after refactoring the VBA code, the code runs faster by a factor of four.
 
-###Refactored code & time to process
+### Refactored code & time to process
 
 ![VBA_Challenge_2017.png](/resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2017.png](/resources/VBA_Challenge_2018.png)
