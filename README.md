@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this project was to refactor VBA code in the macro-enabled workbook [here](/VBA Challenge.xlsm) to reduce it's run time and in conjunction reduce the required processing dedication.
+The purpose of this project was to refactor VBA code in the macro-enabled workbook [VBA Challenge.xlsm](/VBA Challenge.xlsm) to reduce it's run time and in conjunction reduce the required processing dedication.
 
 ### Purpose
 
